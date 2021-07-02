@@ -1,6 +1,8 @@
 # .gitignore
 # file명
 # directory/
+kakaoapikey.txt
+etriaikey.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
