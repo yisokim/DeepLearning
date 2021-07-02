@@ -9,6 +9,7 @@ __pycache__/
 
 labeledTrainData.tsv
 model/
+new_trained_from_vgg16.h5
 
 # C extensions
 *.so
